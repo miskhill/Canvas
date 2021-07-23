@@ -1,0 +1,13 @@
+Canvas use and drawing with HTML-JS 
+2d canvas
+Mousemove mousedown mouseup mouseout
+use X and Y axis to draw
+ctx use (similar to CSS imo) stroke style and hsl use
+ES6 array function use
+
+change mouse start from 0 and update all finish areas
+
+mother-effing hsl website used for the lightness and alpha colours
+use incremental colours let hue = 0 and 
+use a loop to change the start position ++ and reset to change ctx line widths
+use globalCompositeOperation - blend the colours 
